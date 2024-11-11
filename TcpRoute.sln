@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpRoute", "TcpRoute\TcpRoute.csproj", "{E01AD60F-D743-4F3F-B798-D526EEE954BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceRouting", "TraceRouting\TraceRouting.csproj", "{F073D9CD-C2A8-474F-B2F9-0C5E2A4FA2C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01AD60F-D743-4F3F-B798-D526EEE954BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01AD60F-D743-4F3F-B798-D526EEE954BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01AD60F-D743-4F3F-B798-D526EEE954BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01AD60F-D743-4F3F-B798-D526EEE954BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F073D9CD-C2A8-474F-B2F9-0C5E2A4FA2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F073D9CD-C2A8-474F-B2F9-0C5E2A4FA2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F073D9CD-C2A8-474F-B2F9-0C5E2A4FA2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F073D9CD-C2A8-474F-B2F9-0C5E2A4FA2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18ED9BD3-01B8-4A3D-AA8B-3D0D76DC535A}
+	EndGlobalSection
+EndGlobal
